@@ -74,6 +74,15 @@ a {
     word-break: break-all;
 }
 
+button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
 /* typo classes */
 .text-green,
 .text-green a,
