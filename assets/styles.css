@@ -229,6 +229,9 @@ section.section-footer {
 .section-content span {
     font-size: calc(16px + 2.5vw);
 }
+.section-content span.small {
+	font-size: calc(16px + 1.1vw);
+}
 
 .section-content.text-medium p {
     font-size: calc(16px + 1.3vw);
